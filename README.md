@@ -9,3 +9,5 @@ Born in Russia, Raised in the Internet.
 My passion is music and clean code.
 
 I'm adorable. Please hire me!
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DustyGoo&theme=dark)](https://git.io/streak-stats)
