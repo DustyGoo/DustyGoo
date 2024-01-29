@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Eugene
+### Hello! My name is Eugene
 #### I am ~~Snakecharmer~~ Python Developer
 Skills: Python / SQL / Django / Flask / HTML / CSS
 
@@ -11,3 +11,5 @@ My passion is music and clean code.
 I'm adorable. Please hire me!
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DustyGoo&theme=dark)](https://git.io/streak-stats)
+
+![](https://komarev.com/ghpvc/?username=DustyGoo&style=plastic&color=blueviolet)
